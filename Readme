@@ -53,12 +53,12 @@ Install these libraries using the Arduino Library Manager (Sketch -> Include Lib
     ThingSpeak
     Ethernet
 
-🔌 Wiring Diagram
+ Wiring Diagram
 Sensor 	Arduino Pin
 MQ Sensors 	Analog Pin A0
 DHT-11 	Digital Pin D2
 Ethernet Shield 	Follows standard SPI pins on the UNO
-🚀 Installation and Setup
+Installation and Setup
 
 Clone the Repository:
 
@@ -109,5 +109,5 @@ Usage
     Open the Serial Monitor (9600 baud) to see real-time sensor readings.
     Visit your ThingSpeak channel to view the data visualization.
 
-Author:NAVENDU MISHRA
-Contact: 2329191@kiit.ac.in
+Author :  NAVENDU MISHRA
+Contact: navendumishra20030809@gmail.com
